@@ -1,0 +1,26 @@
+https://github.com/TA2k/ioBroker.nina/blob/master/main.js
+
+https://warnung.bund.de/bbk.mowas/gefahrendurchsagen.json
+http https://warnung.bund.de/assets/json/suche_channel.json
+
+    "05911": {
+        "GEMEINDEN": "Bochum",
+        "LOWERLEFT": "7.1052, 51.4109",
+        "NAME": "Bochum",
+        "UPPERRIGHT": "7.3498, 51.5327"
+    },
+    "05913": {
+        "GEMEINDEN": "Dortmund",
+        "LOWERLEFT": "7.3024, 51.4149",
+        "NAME": "Dortmund",
+        "UPPERRIGHT": "7.6372, 51.6001"
+    },
+
+
+https://warnung.bund.de/bbk.config/config_rel.json
+
+
+
+https://github.com/mlechner/mowas_converter/blob/master/mowas2geojson.py#L17-L29
+
+
